@@ -1,4 +1,4 @@
 # chirag
 this is first repository
 <br>
-author -- chirag bhut
+author -- chirag bhut (coder)
